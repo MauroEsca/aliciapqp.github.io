@@ -37,3 +37,7 @@ body {
     height: 280px;
     width: 214px;
 }
+
+.card {
+  border-radius: 1rem;
+}
